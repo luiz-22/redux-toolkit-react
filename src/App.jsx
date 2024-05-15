@@ -6,7 +6,7 @@ import Api from './components/Api';
 function App() {
   return (
     <div className='justify-center'>
-      <h1>Redux Toolkit - React</h1>
+      <h1>Redux Toolkit + React</h1>
       <br /><br />
       <Wallet />
       <br /><br />
