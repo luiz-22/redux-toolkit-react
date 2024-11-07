@@ -2,6 +2,8 @@
 
 Implementación de Redux Toolkit con React.
 
+## Instalar
+
 ```bash
 npm i
 ```
