@@ -1,4 +1,4 @@
-<h1 align="center">Redux Toolkit + React</h1>
+# Redux Toolkit + React
 
 Implementación de Redux Toolkit con React.
 
