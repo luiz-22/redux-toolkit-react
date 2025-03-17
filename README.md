@@ -1,19 +1,14 @@
-<h1 align="center">Redux Toolkit + React</h1>
+# Redux Toolkit + React
 
 Implementación de Redux Toolkit con React.
 
-## Instalar
+## 🔧 Instalación y ejecución
 
 ```bash
 npm i
-```
-
-## Ejecutar
-
-```bash
 npm run dev
 ```
 
-## Guía básica de Redux
+## 📝 Guía básica de Redux
 
 [Link](https://luisblog.vercel.app/redux/inicio)
